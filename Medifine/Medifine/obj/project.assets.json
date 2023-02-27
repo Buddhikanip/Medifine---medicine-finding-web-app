@@ -10552,11 +10552,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CHAMA COMPUTERS\\Documents\\GitHub\\New folder\\Medifine\\Medifine\\Medifine.csproj",
+      "projectUniqueName": "C:\\Users\\CHAMA COMPUTERS\\Documents\\GitHub\\Medifine---medicine-finding-web-app\\Medifine\\Medifine\\Medifine.csproj",
       "projectName": "Medifine",
-      "projectPath": "C:\\Users\\CHAMA COMPUTERS\\Documents\\GitHub\\New folder\\Medifine\\Medifine\\Medifine.csproj",
+      "projectPath": "C:\\Users\\CHAMA COMPUTERS\\Documents\\GitHub\\Medifine---medicine-finding-web-app\\Medifine\\Medifine\\Medifine.csproj",
       "packagesPath": "C:\\Users\\CHAMA COMPUTERS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CHAMA COMPUTERS\\Documents\\GitHub\\New folder\\Medifine\\Medifine\\obj\\",
+      "outputPath": "C:\\Users\\CHAMA COMPUTERS\\Documents\\GitHub\\Medifine---medicine-finding-web-app\\Medifine\\Medifine\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CHAMA COMPUTERS\\AppData\\Roaming\\NuGet\\NuGet.Config",

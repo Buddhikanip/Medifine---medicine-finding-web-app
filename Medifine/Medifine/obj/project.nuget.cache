@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k/HIM67oktXSe4OR2VvJNYH7o9WsyOraH8AQ2kcyM6wi8f3MMwGsIFivQ70OlavEsA/hIES/6jpdsvuCMM7HJA==",
+  "dgSpecHash": "EBy9YM+N9BvaVn/4XPTMbBud+/zWjIXfipN6vcC6rp6z2M5j+LyvcrYc24d72S8B+KSWeUNdlPbdz9981CQhSw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CHAMA COMPUTERS\\Documents\\GitHub\\New folder\\Medifine\\Medifine\\Medifine.csproj",
+  "projectFilePath": "C:\\Users\\CHAMA COMPUTERS\\Documents\\GitHub\\Medifine---medicine-finding-web-app\\Medifine\\Medifine\\Medifine.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CHAMA COMPUTERS\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\CHAMA COMPUTERS\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
