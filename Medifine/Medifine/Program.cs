@@ -2,7 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using Medifine.Models;
 
 var builder = WebApplication.CreateBuilder(args);
-var conStr = builder.Configuration.GetConnectionString("MedifineCon");
+var conStr = builder.Configuration.GetConnectionString("PharmacyCon");
 builder.Services.AddDbContext<MedifineContext>(option => option.UseSqlServer(conStr));
 
 // Add services to the container.
