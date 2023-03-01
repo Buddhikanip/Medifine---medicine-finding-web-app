@@ -23,6 +23,46 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/CHAMA COMPUTERS/Documents/GitHub/Medifine---Medicine-finding-web-app/Medifine/Medifine/Views/inventories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaW52ZW50b3JpZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CHAMA COMPUTERS/Documents/GitHub/Medifine---Medicine-finding-web-app/Medifine/Medifine/Views/inventories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaW52ZW50b3JpZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CHAMA COMPUTERS/Documents/GitHub/Medifine---Medicine-finding-web-app/Medifine/Medifine/Views/inventories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaW52ZW50b3JpZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CHAMA COMPUTERS/Documents/GitHub/Medifine---Medicine-finding-web-app/Medifine/Medifine/Views/inventories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaW52ZW50b3JpZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CHAMA COMPUTERS/Documents/GitHub/Medifine---Medicine-finding-web-app/Medifine/Medifine/Views/inventories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaW52ZW50b3JpZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CHAMA COMPUTERS/Documents/GitHub/Medifine---Medicine-finding-web-app/Medifine/Medifine/Views/owners/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncb3duZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CHAMA COMPUTERS/Documents/GitHub/Medifine---Medicine-finding-web-app/Medifine/Medifine/Views/owners/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncb3duZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CHAMA COMPUTERS/Documents/GitHub/Medifine---Medicine-finding-web-app/Medifine/Medifine/Views/owners/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncb3duZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CHAMA COMPUTERS/Documents/GitHub/Medifine---Medicine-finding-web-app/Medifine/Medifine/Views/owners/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncb3duZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/CHAMA COMPUTERS/Documents/GitHub/Medifine---Medicine-finding-web-app/Medifine/Medifine/Views/owners/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncb3duZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/CHAMA COMPUTERS/Documents/GitHub/Medifine---Medicine-finding-web-app/Medifine/Medifine/Views/pharmacies/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGhhcm1hY2llc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
