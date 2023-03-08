@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "TTImzw/Pz9glrtAh1m7cmTw6N76wVsb6PJQYPDvDmiM0jL8bcIj2dDGLPddqSN6M5uS3R3vy61AwN8hZrUXWEQ==",
+  "dgSpecHash": "D3EwbhcaKj+vWe64RT5uDNv0tgLGMPnUv05f15mqRpm0lTvDKbRtlHO+mz9lvn4vj3rtxTfOE7XgwrSrNMXtLA==",
   "success": true,
   "projectFilePath": "C:\\Users\\CHAMA COMPUTERS\\Documents\\GitHub\\Medifine---Medicine-finding-web-app\\Medifine\\Medifine\\Medifine.csproj",
   "expectedPackageFiles": [
@@ -34,6 +34,9 @@
     "C:\\Users\\CHAMA COMPUTERS\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\CHAMA COMPUTERS\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\CHAMA COMPUTERS\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\CHAMA COMPUTERS\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\CHAMA COMPUTERS\\.nuget\\packages\\sendgrid\\9.28.1\\sendgrid.9.28.1.nupkg.sha512",
+    "C:\\Users\\CHAMA COMPUTERS\\.nuget\\packages\\starkbank-ecdsa\\1.3.3\\starkbank-ecdsa.1.3.3.nupkg.sha512",
     "C:\\Users\\CHAMA COMPUTERS\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\CHAMA COMPUTERS\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
     "C:\\Users\\CHAMA COMPUTERS\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
