@@ -1,0 +1,87 @@
+﻿@model UserData;
+
+@{
+    //ViewData["Title"] = "User Login";
+    Layout = null;
+}
+<title>User Login</title>
+<style>
+    .btn {
+        padding: 8px 24px;
+        text-align: center;
+        display: inline-block;
+        font-size: 16px;
+        margin: 2px 1px;
+        transition-duration: 0.4s;
+        background-color: white;
+        color: black;
+        border: 2px solid #555555;
+        border-radius: 10px;
+    }
+
+        .btn:hover {
+            background-color: #555555;
+            color: white;
+            box-shadow: 0 1px 8px 0.1px rgba(0, 0, 0, 0.5);
+        }
+
+    .div {
+        height: auto;
+        max-width: 800px;
+        border-radius: 20px;
+        background-color: white;
+        box-shadow: 0 1px 8px 0.1px rgba(0, 0, 0, 0.5);
+    }
+
+    input[type=text] {
+        padding: 12px 20px;
+        margin: 2px 0;
+        box-sizing: border-box;
+        border: 3px solid #ccc;
+        -webkit-transition: 0.5s;
+        transition: 0.5s;
+        outline: none;
+        border-radius: 8px;
+    }
+
+        input[type=text]:focus {
+            border: 3px solid #555;
+        }
+
+    input[type=password] {
+        padding: 12px 20px;
+        margin: 2px 0;
+        box-sizing: border-box;
+        border: 3px solid #ccc;
+        -webkit-transition: 0.5s;
+        transition: 0.5s;
+        outline: none;
+        border-radius: 8px;
+    }
+
+        input[type=password]:focus {
+            border: 3px solid #555;
+        }
+</style>
+<br />
+<br />
+<br />
+
+<center>
+    <div class="div">
+        <br />
+        <h1>Item Login</h1>
+        <br /><br /><br />
+        <p style="color: red; font-size: 15px;">
+            @ViewBag.Message
+        </p>
+        <form asp-action="Login" asp-controller="UserData">
+            <input type="text" asp-for="UserName" name="UserName" placeholder="User Name" size="30px" required /><br /><br />
+            <input type="password" asp-for="Password" name="Password" placeholder="Password" size="30px" required /><br /><br />
+            <input type="submit" value="Login" class="btn" style="padding-left: 100px; padding-right: 100px;" />
+        </form>
+        <br />
+        <p>If you don't have an account? <a asp-controller="UserData" asp-action="RegisterForm">Sign Up here</a></p>
+        <br /><br /><br />
+    </div>
+</center>

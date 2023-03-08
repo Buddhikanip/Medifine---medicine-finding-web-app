@@ -1,0 +1,105 @@
+﻿@model UserData;
+
+@{
+    ViewData["Title"] = "User Registraion";
+}
+
+<style>
+    .btn {
+        padding: 8px 24px;
+        text-align: center;
+        display: inline-block;
+        font-size: 16px;
+        margin: 2px 1px;
+        transition-duration: 0.4s;
+        background-color: white;
+        color: black;
+        border: 2px solid #555555;
+        border-radius: 10px;
+    }
+
+        .btn:hover {
+            background-color: #555555;
+            color: white;
+            box-shadow: 0 1px 8px 0.1px rgba(0, 0, 0, 0.5);
+        }
+
+    .div {
+        height: auto;
+        max-width: 800px;
+        border-radius: 20px;
+        background-color: white;
+        box-shadow: 0 1px 8px 0.1px rgba(0, 0, 0, 0.5);
+    }
+
+    input[type=text] {
+        padding: 12px 20px;
+        margin: 2px 0;
+        box-sizing: border-box;
+        border: 3px solid #ccc;
+        -webkit-transition: 0.5s;
+        transition: 0.5s;
+        outline: none;
+        border-radius: 8px;
+    }
+
+        input[type=text]:focus {
+            border: 3px solid #555;
+        }
+
+    input[type=password] {
+        padding: 12px 20px;
+        margin: 2px 0;
+        box-sizing: border-box;
+        border: 3px solid #ccc;
+        -webkit-transition: 0.5s;
+        transition: 0.5s;
+        outline: none;
+        border-radius: 8px;
+    }
+
+        input[type=password]:focus {
+            border: 3px solid #555;
+        }
+
+    input[type=email] {
+        padding: 12px 20px;
+        margin: 2px 0;
+        box-sizing: border-box;
+        border: 3px solid #ccc;
+        -webkit-transition: 0.5s;
+        transition: 0.5s;
+        outline: none;
+        border-radius: 8px;
+    }
+
+        input[type=email]:focus {
+            border: 3px solid #555;
+        }
+</style>
+<br />
+<br />
+
+<center>
+    <div class="div">
+        <div>
+            <br />
+            <h1>Item Registration</h1>
+            <br />
+            <p style="color: red; font-size: 15px;">
+                @ViewBag.Message
+            </p>
+            <form asp-action="Register" asp-controller="UserData">
+                <input type="email" asp-for="Email" name="Email" placeholder="Email" size="30px" required /><br /><br />
+                <input type="text" asp-for="UserName" name="UserName" placeholder="User Name" size="30px" required /><br /><br />
+                <input type="password" asp-for="Password" name="Password" placeholder="Password" size="30px" required /><br /><br />
+                <input type="text" asp-for="FirstName" name="FirstName" placeholder="First Name" size="30px" required /><br /><br />
+                <input type="text" asp-for="LastName" name="LastName" placeholder="Last Name" size="30px" required /><br /><br />
+                <input type="submit" value="Register" class="btn" style="padding-left: 100px; padding-right: 100px;" />
+            </form>
+            <br />
+            <p>Have already an account? <a asp-controller="UserData" asp-action="LoginForm">Login here</a></p>
+            <br />
+        </div>
+    </div>
+</center>

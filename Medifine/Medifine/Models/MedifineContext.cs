@@ -10,5 +10,6 @@ namespace Medifine.Models
         public DbSet<pharmacy> Pharmacies { get; set; }
         public DbSet<inventory> Inventories { get; set; }
         public DbSet<owner> Owners { get; set; }
+        public DbSet<UserData> UserDatas { get; set; }   
     }
 }
